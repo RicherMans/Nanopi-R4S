@@ -2,7 +2,7 @@
 
 This repo contains my NanoPi-R4S builds mainly using LEDE.
 
-The main changes are that the image is 16GB large (most others are 1GB).
+The main changes are that the image is 4GB large (most others are 1GB).
 
 
 
